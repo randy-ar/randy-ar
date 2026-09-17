@@ -9,7 +9,7 @@
 - 👨‍💻 **Who I am:** A Web Developer with a strong interest in expanding skills toward Mobile Development and DevOps.
 - 🔭 **Currently working on:** Refining my college undergraduate thesis application.
 - 🧰 **Preferred Stack & Tools:** Comfortable building with the **Node.js** ecosystem (**JavaScript & TypeScript**), using reusable UI components like **shadcn/ui**, and prototyping designs with **Figma** & **Canva**.
-- 📫 **How to reach me:** Reach out via [Gmail](mailto:) or DM me on [Instagram](https://www.instagram.com/ndyabdur)!
+- 📫 **How to reach me:** DM me on [Instagram](https://www.instagram.com/ndyabdur) or connect on [LinkedIn](https://www.linkedin.com/in/randy-abdul-rahman/)!
 
 ---
 
@@ -74,6 +74,5 @@
 
 ### 📬 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-abdul-rahman/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ndyabdur)
