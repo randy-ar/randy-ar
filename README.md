@@ -61,10 +61,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randy-ar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randy-ar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=randy-ar&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=randy-ar&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=randy-ar&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=randy-ar&langs_count=5&theme=dark_github)
 
 ---
 
