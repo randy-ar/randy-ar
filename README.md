@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Randy 👋</h1>
-
 <p align="center">
   <img src="./banner-git-randy.gif" alt="Banner Randy" width="100%" />
 </p>
